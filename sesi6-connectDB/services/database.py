@@ -4,6 +4,6 @@ database = mysql.connector.connect(
     host='localhost',
     user='root',
     password='',
-    database='toko_mini'
+    database='your_dbname'
 )
 
