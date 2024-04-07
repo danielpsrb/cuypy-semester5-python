@@ -1,1 +1,1 @@
-CUY UNIVERSITY SEMESTER 5 <=> CUYPY GAMES 
+Cuy University Semester 5
